@@ -13,13 +13,14 @@ Transform any PDF into an engaging quiz experience! This innovative application 
 
 ## 🛠️ Tech Stack
 
-- Next.js 14 with App Router
+- Next.js 15 with App Router
 - Vercel AI SDK
 - Google Gemini 2.0 AI
 - TypeScript
 - Tailwind CSS
 - Shadcn UI Components
 - Framer Motion for animations
+- Aceternity UI Components
 
 ## 🚀 Getting Started
 
